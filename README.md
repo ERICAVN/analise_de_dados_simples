@@ -1,2 +1,2 @@
 # analise_de_dados_simples
-Será mostrado nesta análise alguns insights que podemos tirar de gráficos analisando grupos de clientes ,e por fim a proposta de um modelo de regressão.
+Será mostrado nesta análise alguns insights que podemos tirar de gráficos analisando grupos de clientes, e por fim a proposta de um modelo de regressão.
